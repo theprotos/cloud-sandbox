@@ -1,5 +1,6 @@
 .idea
 provider.tf
+secrets.json
 .terraform
 *.iml
 *.tfstate*
